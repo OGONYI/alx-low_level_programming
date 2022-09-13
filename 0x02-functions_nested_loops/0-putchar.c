@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-* main - print putchar as massage
-* return: always 0
+* main - prints putchar
+* return: always 0 (Success)
 */
 
 int main(void)
