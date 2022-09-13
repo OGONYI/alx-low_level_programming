@@ -2,7 +2,7 @@
 
 /**
 * main - print putchar as massage
-* return: always 0 (Success)
+* return: always 0
 */
 
 int main(void)
