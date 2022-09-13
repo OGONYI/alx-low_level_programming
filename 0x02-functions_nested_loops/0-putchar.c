@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
-* main - Prints putchar
-* Return: Always 0 (Success)
+* main - print putchar
+* return: always 0 (Success)
 */
+
 int main(void)
 {
 _putchar('_');
@@ -16,6 +17,6 @@ _putchar('a');
 _putchar('r');
 _putchar('\n');
 
-Return (0);
+return (0);
 
 }
